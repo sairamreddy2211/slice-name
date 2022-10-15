@@ -1,3 +1,4 @@
 # slice-name
 
-![slice-name](https://user-images.githubusercontent.com/64423697/196005324-0251effe-35f0-4530-8cd8-1b94324afed4.png)
+
+![slice-name](https://user-images.githubusercontent.com/64423697/196006370-c0507217-76d3-4411-a740-c9ca6721b308.png)
